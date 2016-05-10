@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AMazeByTomvdh44</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_generating">GeneratingActivity</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="show_map">Show Map</string>
+    <string name="action_route">Show Route</string>
+    <string name="title_activity_finish">FinishActivity</string>
+    <string name="finish">You Finished!</string>
+    <string name="lost">You Lost.</string>
+	
+    <string-array name="RandomMazes">
+        <item>Prims</item>
+        <item>Kruskals</item>
+        <item>Backtracking</item>
+    </string-array>
+    
+   	<string-array name = "FileMazes">
+   	    <item>Input1</item>
+   	    <item>Input2</item>
+   	    <item>Input3</item>
+   	    
+   	</string-array>
+
+</resources>
